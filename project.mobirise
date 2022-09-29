@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "movingafrica.html",
     "theme": {
       "name": "temperm5",
       "title": "TemperM5",
@@ -52,7 +52,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Afrika Forum Freiburg",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
